@@ -1,7 +1,8 @@
 package com.jungwoonson.dollar;
 
-public class Dollar {
-    private int amount;
+import com.jungwoonson.Money;
+
+public class Dollar extends Money {
 
     public Dollar(int amount) {
         this.amount = amount;

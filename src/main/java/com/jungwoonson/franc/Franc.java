@@ -1,7 +1,8 @@
 package com.jungwoonson.franc;
 
-public class Franc {
-    private int amount;
+import com.jungwoonson.Money;
+
+public class Franc extends Money {
 
     public Franc(int amount) {
         this.amount = amount;
