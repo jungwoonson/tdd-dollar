@@ -1,5 +1,6 @@
 package com.jungwoonson.franc;
 
+import com.jungwoonson.money.Dollar;
 import com.jungwoonson.money.Franc;
 import org.junit.jupiter.api.Test;
 
@@ -14,11 +15,5 @@ class FrancTest {
         assertEquals(new Franc(10), product);
         product = five.times(3);
         assertEquals(new Franc(15), product);
-    }
-
-    @Test
-    public void testEquality() {
-        assertTrue(new Franc(5).equals(new Franc(5)));
-        assertFalse(new Franc(5).equals(new Franc(6)));
     }
 }
