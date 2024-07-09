@@ -1,6 +1,4 @@
-package com.jungwoonson.dollar;
-
-import com.jungwoonson.Money;
+package com.jungwoonson.money;
 
 public class Dollar extends Money {
 

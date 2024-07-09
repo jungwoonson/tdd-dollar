@@ -1,5 +1,6 @@
 package com.jungwoonson.dollar;
 
+import com.jungwoonson.money.Dollar;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

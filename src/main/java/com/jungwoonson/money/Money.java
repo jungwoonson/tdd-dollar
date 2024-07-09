@@ -1,4 +1,4 @@
-package com.jungwoonson;
+package com.jungwoonson.money;
 
 public class Money {
 

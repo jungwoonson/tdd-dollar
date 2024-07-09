@@ -1,6 +1,4 @@
-package com.jungwoonson.franc;
-
-import com.jungwoonson.Money;
+package com.jungwoonson.money;
 
 public class Franc extends Money {
 

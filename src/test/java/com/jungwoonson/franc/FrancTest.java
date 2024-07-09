@@ -1,5 +1,6 @@
 package com.jungwoonson.franc;
 
+import com.jungwoonson.money.Franc;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
